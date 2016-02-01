@@ -1,7 +1,7 @@
 name: landmark
 favicon: null
-layout_spectrum: 0.34303230373188853
-typography_spectrum: 0.17254226352088153
+layout_spectrum: 1
+typography_spectrum: 0.39219
 title: Landmark
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#e24d46'
+    - '#ffffff'
+    - '#f5954b'
+    - '#fdb24d'
+    - '#f0a5a1'
   brandStrength: 0.7569558564573526
   lightness: 0.6629502500873059
   saturation: 0.2709803618490696
