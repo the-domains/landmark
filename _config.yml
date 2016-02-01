@@ -1,0 +1,29 @@
+name: landmark
+favicon: null
+layout_spectrum: 0.34303230373188853
+typography_spectrum: 0.17254226352088153
+title: Landmark
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7569558564573526
+  lightness: 0.6629502500873059
+  saturation: 0.2709803618490696
+  rhythmicContrast: 0.5388306437525898
+purpose: []
